@@ -1,0 +1,6 @@
+daft-pgm
+matplotlib
+pandas
+numpy
+jupyter
+
